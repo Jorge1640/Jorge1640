@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer engineering student with a passion for Java programming, anime, manga, and music. Currently pursuing a degree in computer engineering and honing my Java development skills. I am enthusiastic about creating innovative software solutions and exploring the vast world of anime and manga.</p>
+<p align="left">Sistems engineering with a passion for Java programming, anime, manga, and music. Currently pursuing a degree in computer engineering and honing my Java development skills. I am enthusiastic about creating innovative software solutions and exploring the vast world of anime and manga.</p>
 
 ###
 
